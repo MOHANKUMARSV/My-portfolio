@@ -45,7 +45,7 @@ export default function App() {
               </p>
               <div className="flex gap-4">
                 <a
-                  href="https://github.com/MOHANKUMARSV/apple-clone"
+                  href="https://github.com/MOHANKUMARSV/clone-apple.git"
                   target="_blank"
                   rel="noreferrer"
                   className="text-pink-600 font-semibold hover:underline"
@@ -53,7 +53,7 @@ export default function App() {
                   Repo
                 </a>
                 <a
-                  href="https://mohankumarsv.github.io/apple-clone/"
+                  href="https://mohankumarsv.github.io/clone-apple/"
                   target="_blank"
                   rel="noreferrer"
                   className="text-pink-600 font-semibold hover:underline"
